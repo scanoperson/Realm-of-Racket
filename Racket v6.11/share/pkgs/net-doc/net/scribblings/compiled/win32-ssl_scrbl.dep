@@ -1,0 +1,1 @@
+("6.11" ("7db0bbc5f2ed878614537e0072c28bf0da033af7" . "a5f474e0b45d40e0a1a35153c894dccf4d337a33") (collects #"net" #"scribblings" #"common.rkt") (collects #"net" #"win32-ssl.rkt") (collects #"openssl" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt"))

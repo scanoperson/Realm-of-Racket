@@ -1,0 +1,1 @@
+("6.11" ("3f3c6a15bf2cd9fe3473caf13672ae0e54c2d859" . "4cf052dfbbc4a7035a6463f12f9c08f89aa59b7b") (collects #"racket" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"match" #"match-expander.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"struct-info.rkt") (collects #"syntax" #"id-table.rkt"))

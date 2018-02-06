@@ -1,0 +1,1 @@
+("6.11" ("c8b0cad5768ff1afc251c3add2dd4d5e7910c5e2" . "a383b9588b2f4303906415a02f726ed35720b74c") (collects #"htdp" #"guess.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

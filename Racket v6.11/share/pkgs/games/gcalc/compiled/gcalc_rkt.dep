@@ -1,0 +1,1 @@
+("6.11" ("05605a18c2be29fab9e0362f3d2b8e540e2f2bef" . "0551d31a7ba4bbbbd52b8e0dc29e6f95af4f84a5") (collects #"games" #"show-scribbling.rkt") (collects #"racket" #"gui.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt"))

@@ -1,0 +1,1 @@
+("6.11" ("e14757ad6a99a25a87a912b762b220ca76f4df37" . "0cb651327b83d7533967ba2a47dbe1db55d3d7e6") (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt") (collects #"eopl" #"tests" #"chapter7" #"inferred" #"data-structures.rkt") (collects #"eopl" #"tests" #"chapter7" #"inferred" #"environments.rkt") (collects #"eopl" #"tests" #"chapter7" #"inferred" #"lang.rkt"))

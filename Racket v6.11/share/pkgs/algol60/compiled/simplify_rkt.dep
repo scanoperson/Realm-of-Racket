@@ -1,0 +1,1 @@
+("6.11" ("426be3fa1bd0e1495cfaf9d68da4cbb1f4306e93" . "1782fafdcf351c830d6375be0c107b2ef0e92fc7") (collects #"algol60" #"parse.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"runtime-config.rkt") (indirect collects #"racket" #"match" #"gen-match.rkt") (indirect collects #"racket" #"match" #"parse.rkt"))

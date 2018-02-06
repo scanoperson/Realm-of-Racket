@@ -1,0 +1,1 @@
+("6.11" ("767f75d90bd781a769cbef6989a9a50007a282b7" . "0c19f1c7f0b6e76706a869d33b85c90f9363bbde") (collects #"htdp" #"error.rkt") (collects #"lang" #"prim.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui" #"lang" #"reader.rkt") (collects #"racket" #"gui.rkt") (collects #"racket" #"runtime-config.rkt"))

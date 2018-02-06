@@ -1,0 +1,1 @@
+("6.11" ("3b61626bd6f0685858ff7ac427c403dac16618d9" . "c0794b9116fcba69eb654ef4f718833e336ae0e5") (collects #"games" #"parcheesi" #"moves.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"pretty.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"runtime-path.rkt") (collects #"xml" #"main.rkt"))

@@ -1,0 +1,1 @@
+("6.11" ("5059cfa7616d6290d3a6cc11dcb5fe3ab85a4cca" . "c21b367051f2a95b9641388a1a851f1b5c199356") (collects #"htdp" #"bsl" #"runtime.rkt") (collects #"htdp" #"world.rkt") (collects #"lang" #"htdp-intermediate-lambda-reader.rkt") (collects #"lang" #"htdp-intermediate-lambda.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

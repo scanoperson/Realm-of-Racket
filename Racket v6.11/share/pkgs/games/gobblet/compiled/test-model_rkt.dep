@@ -1,0 +1,1 @@
+("6.11" ("68f96d5dc3e8ad6c29ba0d7aced7467a5e022de7" . "658eb7e1768072032994579a5ab95d2029574a4c") (collects #"games" #"gobblet" #"model.rkt") (collects #"games" #"gobblet" #"sig.rkt") (collects #"games" #"gobblet" #"test.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

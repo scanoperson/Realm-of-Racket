@@ -1,0 +1,1 @@
+("6.11" ("96e226c9c859efa51184ee826913026e241c141b" . "5f63f493ba29c82a190b3c5d1bab6be1784c5e2f") (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt") (collects #"eopl" #"tests" #"chapter4" #"mutable-pairs" #"store.rkt"))

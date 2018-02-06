@@ -1,0 +1,1 @@
+("6.11" ("22d8e91517363e1850ac7e7b5604479d6d97f083" . "2c822bf1c8a34c9cc8e19253122a712f4129976d") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt") (collects #"scribble" #"manual" #"lang.rkt") (collects #"setup" #"plt-installer-sig.rkt") (collects #"setup" #"plt-installer-unit.rkt") (collects #"setup" #"plt-installer.rkt"))

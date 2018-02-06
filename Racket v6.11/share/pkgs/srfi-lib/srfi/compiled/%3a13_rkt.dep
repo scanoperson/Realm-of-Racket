@@ -1,0 +1,1 @@
+("6.11" ("c77532bd4972afe1c622572787d7932216c95b93" . "9ab9f027c25a21647821d1bbfa71de5951e5b70d") (collects #"rnrs" #"base-6.rkt") (collects #"scheme" #"main.rkt") (collects #"scheme" #"mpair.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"srfi" #"13.rkt"))

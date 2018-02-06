@@ -1,0 +1,1 @@
+("6.11" ("8473512c7d3dcaf006375e18fe8185ca8c5522d9" . "520dad13384b840d530eb53404f6998592bdfb67") (collects #"macro-debugger" #"model" #"deriv-c.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

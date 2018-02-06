@@ -1,0 +1,1 @@
+("6.11" ("be7a6177a730d68358db3aa1d603e42b671e2f47" . "31533c16076d72e673ffc06e7fba56d062fc086e") (collects #"racket" #"private" #"pre-base.rkt") (collects #"racket" #"private" #"stxcase-scheme.rkt") (collects #"racket" #"runtime-config.rkt"))

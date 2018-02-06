@@ -1,0 +1,1 @@
+("6.11" ("ecd9742ae481ab1ac6879bea71c944d5837bede8" . "f24a849be4e3a4ddeb3556ffbc062975c6bd9b69") (collects #"embedded-gui" #"embedded-gui.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define package-content-state (quote (built "6.11"))) (define collection (quote multi)) (define version "1.1") (define deps (quote ("unix-socket-lib" "unix-socket-doc"))) (define pkg-authors (quote (ryanc)))))

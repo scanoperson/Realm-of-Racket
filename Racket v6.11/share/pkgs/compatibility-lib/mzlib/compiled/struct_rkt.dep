@@ -1,0 +1,1 @@
+("6.11" ("3c1b242d95116169909d0561146117aca27cb029" . "ff73a3032645aea6043249d04536250ab21058cd") (collects #"mzscheme" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"syntax" #"struct.rkt") (collects #"syntax" #"stx.rkt"))

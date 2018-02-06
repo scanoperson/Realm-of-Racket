@@ -1,0 +1,1 @@
+("6.11" ("086cb660705b854f37e4d4780aad1343e091e5e6" . "f72286f83a64c804f543c9a7d6c813e6563ca784") (collects #"compiler" #"embed.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"wxme" #"wxme.rkt"))

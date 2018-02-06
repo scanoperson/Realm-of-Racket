@@ -1,0 +1,1 @@
+("6.11" ("a9b8b40b4cf3a8ed8aedada27f1ef19e8d581cf7" . "1f749a02846bf2489feae9872fbf107af80cd7ee") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"redex" #"benchmark.rkt"))

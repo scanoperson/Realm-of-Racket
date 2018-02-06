@@ -1,0 +1,1 @@
+("6.11" ("95985b26fa353b0926a6c5b8906f8d7a89b082fe" . "3e7efc68d028c0579797464a03a1760c6817cec2") (collects #"compatibility" #"defmacro.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzlib" #"string.rkt") (collects #"s-exp" #"lang" #"reader.rkt") (collects #"scheme" #"base.rkt") (collects #"swindle" #"base.rkt"))

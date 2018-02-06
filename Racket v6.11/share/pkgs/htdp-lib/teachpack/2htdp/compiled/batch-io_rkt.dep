@@ -1,0 +1,1 @@
+("6.11" ("24142c363bbff9b1d54e91a2cc2867525f0e0907" . "cc61de754dc448af032f26176ae9de4268ec1b66") (collects #"2htdp" #"batch-io.rkt") (collects #"scheme" #"main.rkt") (collects #"scheme" #"runtime-config.rkt"))

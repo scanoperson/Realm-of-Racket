@@ -1,0 +1,1 @@
+("6.11" ("6a16fc2fa2e251f2d74b79d9c3dfe50d1537d337" . "b3c991410dbb29aaaeaa9968eba5894a1292db63") (collects #"htdp" #"big-draw.rkt") (collects #"htdp" #"draw-sig.rkt") (collects #"mzlib" #"unit.rkt") (collects #"scheme" #"main.rkt") (collects #"scheme" #"runtime-config.rkt"))

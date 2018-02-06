@@ -1,0 +1,1 @@
+("6.11" ("cca964cf562416c10440bf91f2143d344455c7ed" . "bb1fa9b6fe65e09a66ea0666dd8c6cf651993424") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"s-exp" #"lang" #"reader.rkt") (collects #"setup" #"dirs.rkt") (collects #"setup" #"path-relativize.rkt"))

@@ -1,0 +1,1 @@
+("6.11" ("1d8d86b15673e22e79a483221dd0ea5c40ee3804" . "90419d62117561e90807608bc47abf9115a6d0a9") (collects #"gui-debugger" #"marks.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzscheme" #"main.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"syntax" #"kerncase.rkt"))

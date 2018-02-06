@@ -1,0 +1,1 @@
+("6.11" ("7bd714e6eec7752ab7a29c44593c889f89f79ae8" . "d87e2a6fad19ea9529d018fd6958d5ed9943b68d") (collects #"2htdp" #"image.rkt") (collects #"2htdp" #"private" #"planetcute-image-list.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"runtime-path.rkt") (collects #"racket" #"syntax.rkt"))

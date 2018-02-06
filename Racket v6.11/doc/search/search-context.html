@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<!--
+  This page serves as a trampoline - it finds an "hq" parameter,
+  stores it in a cookie, and continues to the search page.  This
+  avoids having the "hq" argument be on the search page - since then
+  when you refresh the search you will reset the cookie.
+-->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Search Manuals</title>
+<script type="text/javascript" src="../scribble-common.js"></script>
+</head>
+<body>
+  <noscript>Sorry, you must have JavaScript to use this page.<br></noscript>
+<script>
+
+if (location.search.length > 0) {
+  var u = new URL(location);
+  var newsearch = "";
+  for(var key of u.searchParams.keys()) {
+    var val = u.searchParams.get(key);
+    // an empty "hq=" can be used to clear the cookie
+    if (key == "hq") {
+      SetCookie("PLT_ContextQuery", val);
+    } else if (key == "label") {
+      SetCookie("PLT_ContextQueryLabel", val);
+    } else {
+      if (newsearch == "") newsearch = "?";
+      newsearch = newsearch + "&" + key + "=" + encodeURIComponent(val);
+    }
+  }
+  // localtion.replace => jump without leaving the current page in the history
+  // (the new url uses "index.html" and the new search part)
+  location.replace(location.href.replace(/\/[^\/?#]*[?][^#]*/,
+                                         "/index.html" + newsearch));
+} else {
+  // no parameters found? just jump to the search page...
+  location.href = "index.html";
+}
+
+</script>
+</body>
+</html>

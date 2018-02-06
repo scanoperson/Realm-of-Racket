@@ -1,0 +1,1 @@
+("6.11" ("27c8af2fb0c4559a31de7ac379275d10d7f23187" . "10094e54c99e1ceadbd9d66ce9e8a495237447b3") (collects #"swindle" #"lang" #"reader.rkt") (collects #"swindle" #"main.rkt") (collects #"swindle" #"turbo.rkt"))

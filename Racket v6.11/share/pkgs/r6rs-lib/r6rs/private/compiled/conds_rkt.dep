@@ -1,0 +1,1 @@
+("6.11" ("ff89d05456030982b7134e90f77969ed950d20e3" . "baa0cf216c55ddd3a69dc1c6a27f9db877fc24fe") (collects #"r6rs" #"private" #"exns.rkt") (collects #"rnrs" #"records" #"procedural-6.rkt") (collects #"rnrs" #"records" #"syntactic-6.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"mpair.rkt") (collects #"scheme" #"runtime-config.rkt"))

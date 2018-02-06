@@ -1,0 +1,1 @@
+("6.11" ("aa64418a5746b475bbbac787570ecd4bc1b9579b" . "909fa2a00ca9235e9135a4e34e98fa1331bdfad3") (collects #"mzlib" #"class.rkt") (collects #"mzscheme" #"main.rkt") (collects #"wxme" #"private" #"class-help.rkt"))

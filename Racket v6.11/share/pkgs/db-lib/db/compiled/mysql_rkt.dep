@@ -1,0 +1,1 @@
+("6.11" ("49b51776c2130c767d9351a5174dfeb24cbcaabe" . "04e69befbe27dd570fcc4f01915f9ecabf504534") (collects #"db" #"base.rkt") (collects #"db" #"private" #"mysql" #"main.rkt") (collects #"openssl" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"contract" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

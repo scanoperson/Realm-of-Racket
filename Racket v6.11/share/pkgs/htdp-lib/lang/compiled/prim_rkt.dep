@@ -1,0 +1,1 @@
+("6.11" ("88f745306578a8098dc69d34a94d4db0cab49a0a" . "ff5753c80ba09d14e41f211d7319724053dd721a") (collects #"lang" #"error.rkt") (collects #"lang" #"htdp-beginner.rkt") (collects #"lang" #"private" #"firstorder.rkt") (collects #"mzscheme" #"lang" #"reader.rkt") (collects #"mzscheme" #"main.rkt") (collects #"stepper" #"private" #"syntax-property.rkt"))

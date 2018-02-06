@@ -1,0 +1,1 @@
+("6.11" ("1aba0f6ca3586308d1adb44b790ca7acb30679ea" . "f2b5884ce197fa9998185129f76b0d6d3114826f") (collects #"planet" #"private" #"resolver.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

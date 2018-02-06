@@ -1,0 +1,1 @@
+("6.11" ("6aa84b8cd0c3def133b55f42fae2e906aeb82994" . "f1b882005962bbfcebe10c4f6407e8845dec0de8") (collects #"future-visualizer" #"scribblings" #"common.rkt") (collects #"future-visualizer" #"trace.rkt") (collects #"racket" #"future.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt"))

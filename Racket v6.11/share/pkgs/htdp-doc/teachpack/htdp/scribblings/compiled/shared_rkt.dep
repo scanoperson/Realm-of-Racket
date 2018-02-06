@@ -1,0 +1,1 @@
+("6.11" ("d30ecb049d6a44876462cdd9c71c53fc62bff046" . "798876a554db27ea3d81c659e29458b78a17576b") (collects #"lang" #"htdp-beginner.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"core.rkt") (collects #"scribble" #"html-properties.rkt") (collects #"scribble" #"manual.rkt"))

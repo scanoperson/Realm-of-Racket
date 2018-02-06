@@ -1,0 +1,1 @@
+("6.11" ("8c55f1f5f158cb5af3735cd1997eb9ea961c712a" . "3edc7305694f04037a50ea9f4baabcc7823aa7c9") (collects #"scheme" #"main.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"scribble" #"core.rkt"))

@@ -1,0 +1,1 @@
+("6.11" ("a7d321af7e6ce996cbbeba38f9ba8a49bf4561ea" . "bb242341bc91fda6e14f195934034c8f527bfae0") (collects #"net" #"git-checkout.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt"))

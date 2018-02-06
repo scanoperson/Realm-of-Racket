@@ -1,0 +1,1 @@
+("6.11" ("f6da8157d959619904dac4dfbc15472eca56ca99" . "3036cdb4f6fe56936baae8a4cd55cd1cadab69e3") (collects #"games" #"tally-maze" #"game.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("6.11" ("6f40c9da206df197eb2edb23838141297407801f" . "392330a4b5efcc698a2b8691a05277b75f88a56c") (collects #"framework" #"main.rkt") (collects #"mred" #"main.rkt") (collects #"scheme" #"class.rkt") (collects #"scheme" #"main.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"string-constants" #"main.rkt"))

@@ -1,0 +1,1 @@
+("6.11" ("0c88fac3fe94ea5b12c58483ccf7b7a20ed9a4ca" . "14604208c0237e30ca445e6b2d3a45e87a63ed55") (collects #"net" #"osx-ssl.rkt") (collects #"net" #"win32-ssl.rkt") (collects #"openssl" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"tcp.rkt"))

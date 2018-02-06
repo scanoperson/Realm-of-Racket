@@ -1,0 +1,1 @@
+("6.11" ("69e40255f02a3dd597378537f97961b030958bc0" . "02d1eb3667e7b39dbcaabfa3ae2a8c250c73ef0c") (collects #"compiler" #"compilation-path.rkt") (collects #"pkg" #"private" #"get-info.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"string.rkt") (collects #"setup" #"collection-search.rkt"))

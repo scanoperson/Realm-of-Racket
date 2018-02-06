@@ -1,0 +1,1 @@
+("6.11" ("ab08232c71c4fbf985479ccbca597f499a33095d" . "1073309ce3858441d1d6906897c8fb6e5ee815af") (collects #"2htdp" #"private" #"timer.rkt") (collects #"scheme" #"gui" #"lang" #"reader.rkt") (collects #"scheme" #"gui.rkt") (collects #"scheme" #"runtime-config.rkt"))

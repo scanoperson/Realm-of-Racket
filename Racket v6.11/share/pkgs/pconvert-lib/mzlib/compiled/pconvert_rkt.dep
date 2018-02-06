@@ -1,0 +1,1 @@
+("6.11" ("afbbf113195eb3f58ea53735ccc745dcb608f9c7" . "0ff1eac502ce2d9f246ae51a039e31ff4b4ca918") (collects #"compatibility" #"mlist.rkt") (collects #"mzlib" #"pconvert-prop.rkt") (collects #"mzscheme" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"undefined.rkt"))

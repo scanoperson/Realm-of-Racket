@@ -1,0 +1,1 @@
+("6.11" ("b61e2cff90bd416b87a9c9b3b698ad47a3e105e8" . "aa8fa84638b4c777a525d44e79f5ab6c485fb49a") (collects #"net" #"mime-sig.rkt") (collects #"net" #"mime.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt"))

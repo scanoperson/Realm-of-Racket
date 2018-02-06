@@ -1,0 +1,1 @@
+("6.11" ("38bc8677bca1d1e476279b6ab6e1800c558590b4" . "e671e72494f7adacfb811cfed7d4b01c3a0e77f4") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"sgl" #"gl-vectors.rkt") (collects #"sgl" #"gl.rkt"))

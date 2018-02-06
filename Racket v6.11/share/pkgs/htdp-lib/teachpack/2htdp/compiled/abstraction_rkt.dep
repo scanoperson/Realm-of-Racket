@@ -1,0 +1,1 @@
+("6.11" ("2212aeabba3925157404bc0b7c9f66f263ae28c5" . "ba14ef86d0d813c4ad83787f21e6aae501daefb2") (collects #"2htdp" #"abstraction.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

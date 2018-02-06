@@ -1,0 +1,1 @@
+("6.11" ("333ef990e68251abc15ca9748727a0fdf773180d" . "3bd68d9056124a751d9c0a122694cb0a3b8a7be6") (collects #"browser" #"browser.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

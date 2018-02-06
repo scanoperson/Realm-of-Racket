@@ -1,0 +1,1 @@
+("6.11" ("6134b8bc975c88f48b8206f400d882889bcfb654" . "8818dfe1529ba0e6a584f61d330486fb2ddad1a2") (collects #"net" #"pop3-sig.rkt") (collects #"net" #"pop3-unit.rkt") (collects #"net" #"pop3.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt"))

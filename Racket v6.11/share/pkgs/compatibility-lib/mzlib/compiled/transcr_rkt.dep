@@ -1,0 +1,1 @@
+("6.11" ("bc9880507027cf125cc3bd2a55a70b30904f3e0b" . "ad918b008801a8550af87b6cafea7acb1974d8c4") (collects #"mzlib" #"port.rkt") (collects #"mzscheme" #"main.rkt"))

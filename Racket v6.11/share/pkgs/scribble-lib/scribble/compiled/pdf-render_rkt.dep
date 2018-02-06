@@ -1,0 +1,1 @@
+("6.11" ("204690de03fc7aea125b9a8d290722e70c9a4134" . "b68d252e3906f5699e6e7eaddecc345e8f4c2efe") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"scribble" #"latex-render.rkt") (collects #"scribble" #"private" #"indirect-renderer.rkt") (collects #"scribble" #"private" #"run-pdflatex.rkt"))

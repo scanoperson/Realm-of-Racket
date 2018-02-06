@@ -1,0 +1,1 @@
+("6.11" ("5dd24fd557ff4c14ea3dbf18fc5e211c215a4f1f" . "c3472165430d2382f33293a5d37327c36e7172bc") (collects #"racket" #"contract" #"base.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"scheme" #"serialize.rkt"))

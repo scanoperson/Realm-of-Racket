@@ -1,0 +1,1 @@
+("6.11" ("6b514f4e49dfbab3ee01e86f4ad6ee3c062f306a" . "935420f9756f0dc1e8c0379e8362a13ed362059c") (collects #"racket" #"base.rkt") (collects #"racket" #"promise.rkt") (collects #"racket" #"runtime-config.rkt"))

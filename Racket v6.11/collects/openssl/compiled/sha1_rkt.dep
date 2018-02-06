@@ -1,0 +1,1 @@
+("6.11" ("8c1eb5aba6c9b81c88ae81c63cfd584af5772c15" . "a84c4e7fb15778e4fe545457ece35887e0e5db79") (collects #"ffi" #"unsafe.rkt") (collects #"file" #"sha1.rkt") (collects #"openssl" #"libcrypto.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"runtime-path.rkt"))

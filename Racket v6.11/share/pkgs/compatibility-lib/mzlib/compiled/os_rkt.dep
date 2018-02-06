@@ -1,0 +1,1 @@
+("6.11" ("1338dec54693c41b7ae681f6cf0bf6211361d74b" . "3e71aa8f9e5bf1dc1a4695ddc660373103bf10da") (collects #"ffi" #"cvector.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"ffi" #"winapi.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzscheme" #"lang" #"reader.rkt") (collects #"mzscheme" #"main.rkt"))

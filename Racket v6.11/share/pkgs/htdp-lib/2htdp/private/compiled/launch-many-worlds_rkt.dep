@@ -1,0 +1,1 @@
+("6.11" ("e9d770c66584a5493787ec83c987e4e8fb8ce7f7" . "d54dbd8067a65fb5a805ef4065c641fa284f4960") (collects #"htdp" #"error.rkt") (collects #"mzlib" #"etc.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"function.rkt") (collects #"racket" #"gui.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"runtime-config.rkt"))

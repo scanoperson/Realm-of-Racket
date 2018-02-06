@@ -1,0 +1,1 @@
+("6.11" ("f1da3276c948373a761a3568a6b41f41a619ce1f" . "a5ebf210fabf632f6e3b8129840235c55e1d9758") (collects #"racket" #"base.rkt") (collects #"racket" #"match" #"patterns.rkt") (collects #"racket" #"match" #"syntax-local-match-introduce.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"struct-info.rkt") (collects #"syntax" #"boundmap.rkt"))

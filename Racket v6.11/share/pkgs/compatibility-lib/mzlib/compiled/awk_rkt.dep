@@ -1,0 +1,1 @@
+("6.11" ("7bfba8f93a18a0270246b6519ddcc3995d14d085" . "a02f48452185182ce7a161ea070515f3a6c7984f") (collects #"mzscheme" #"main.rkt") (collects #"syntax" #"stx.rkt"))

@@ -1,0 +1,1 @@
+("6.11" ("013d3c93472596ed9cc852f6794e42ab363894ae" . "181fb95dcde709471d6006d58d8d09ba53dc5eab") (collects #"mzscheme" #"main.rkt") (collects #"srfi" #"42" #"comprehensions.scm") (collects #"srfi" #"42" #"dispatching.scm") (collects #"srfi" #"42" #"expansion.scm") (collects #"srfi" #"42" #"generators.scm") (collects #"srfi" #"42" #"mzscheme2.rkt"))

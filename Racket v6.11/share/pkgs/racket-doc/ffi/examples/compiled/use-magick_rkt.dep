@@ -1,0 +1,1 @@
+("6.11" ("f826aa20bcd6fed8812f0157e4a3cd6e6fa590b4" . "3a634bb43e3cdde37e6cb798cc2dd52b23ce71a0") (collects #"ffi" #"examples" #"magick.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

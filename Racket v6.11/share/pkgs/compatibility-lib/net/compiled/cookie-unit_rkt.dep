@@ -1,0 +1,1 @@
+("6.11" ("621bf803838f0db90700e41ff53fa33114ed5a8a" . "1ba82a5bdd189133ec5f602415758dd1386a705c") (collects #"net" #"cookie-sig.rkt") (collects #"net" #"cookie.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt"))

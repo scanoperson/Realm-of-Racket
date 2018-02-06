@@ -1,0 +1,1 @@
+("6.11" ("720e28ab87d67c91cecf5b333ccbadfd0bbff470" . "aed4d06b7b5210174d6a14f191c483f945e90a9a") (collects #"racket" #"base.rkt") (collects #"racket" #"contract" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"syntax" #"private" #"modcollapse-noctc.rkt"))

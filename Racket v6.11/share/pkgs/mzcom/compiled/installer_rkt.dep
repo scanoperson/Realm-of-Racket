@@ -1,0 +1,1 @@
+("6.11" ("635d036c9ca90c9247229d570e40f029e5bfee81" . "0ed734dfa373c13d97d4072a66f3888ae3a41851") (collects #"mzlib" #"process.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"setup" #"dirs.rkt"))

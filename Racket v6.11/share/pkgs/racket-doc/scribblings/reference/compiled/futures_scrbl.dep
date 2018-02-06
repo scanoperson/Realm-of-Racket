@@ -1,0 +1,1 @@
+("6.11" ("28c11b3d4c74ca83dab809cc328e61f8a7350a9d" . "56804b10e6a9d1ce0c15481c01353548ffda19e9") (collects #"racket" #"future.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"reference" #"futures-logging.scrbl") (collects #"scribblings" #"reference" #"mz.rkt"))

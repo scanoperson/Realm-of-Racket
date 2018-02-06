@@ -1,0 +1,1 @@
+("6.11" ("6b4b1da36e713ab91b3319f43d11920421a7aff6" . "9b7f74ea16c1e8bcaa63ba36a038db7d23a3a677") (collects #"datalog" #"parse.rkt") (collects #"datalog" #"private" #"compiler.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

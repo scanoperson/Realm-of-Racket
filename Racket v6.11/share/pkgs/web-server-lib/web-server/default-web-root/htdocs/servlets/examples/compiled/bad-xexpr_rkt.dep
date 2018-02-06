@@ -1,0 +1,1 @@
+("6.11" ("67e9b44bb979f3c69f36e58ced37bd629451ac8d" . "b9c4e02bcda2677342763662b5e6e0e60da898f3") (collects #"racket" #"runtime-config.rkt") (collects #"web-server" #"insta" #"insta.rkt") (collects #"web-server" #"insta" #"lang" #"reader.rkt"))

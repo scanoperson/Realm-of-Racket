@@ -1,0 +1,1 @@
+("6.11" ("3a29b005477088711992009f3814a7bd5e6f5b11" . "520ac91bd9fe80508c29b8da483f32a872907fc0") (collects #"mzlib" #"private" #"sigmatch.rkt") (collects #"mzlib" #"unit200.rkt") (collects #"mzscheme" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"syntax" #"context.rkt") (collects #"syntax" #"struct.rkt") (collects #"syntax" #"stx.rkt"))

@@ -1,0 +1,1 @@
+("6.11" ("209310abe79558097877d2a3d7267cce6d2951eb" . "aa111ffa9a37addd423b88b38e9a22b4aa3e3845") (collects #"net" #"imap-sig.rkt") (collects #"net" #"imap.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt"))

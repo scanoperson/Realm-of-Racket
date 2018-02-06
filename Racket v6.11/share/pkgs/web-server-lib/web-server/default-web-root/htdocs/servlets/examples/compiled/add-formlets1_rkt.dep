@@ -1,0 +1,1 @@
+("6.11" ("da1f0e09f388b799726e1723b412136f2d020785" . "0a5f58d35ffa858b3c03ea2fc117fe6dfeed75f4") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"web-server" #"formlets.rkt") (collects #"web-server" #"servlet.rkt") (indirect collects #"racket" #"match" #"gen-match.rkt") (indirect collects #"racket" #"match" #"parse.rkt"))

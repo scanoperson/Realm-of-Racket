@@ -1,0 +1,1 @@
+("6.11" ("d955664e8e5922fbbd5247b498927dc6563f926d" . "03222db6762c08638c0d1d73844e6ce260a5741d") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"stxparam.rkt") (collects #"racklog" #"main.rkt") (collects #"tests" #"eli-tester.rkt"))

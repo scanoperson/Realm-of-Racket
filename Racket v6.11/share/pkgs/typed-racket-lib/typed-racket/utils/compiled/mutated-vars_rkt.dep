@@ -1,0 +1,1 @@
+("6.11" ("0b7f3511eeb47d58ff6f0170d19778092a477cff" . "eeb7d971573b43ae383ef5463cc95cb7b0caf898") (collects #"racket" #"base.rkt") (collects #"racket" #"dict.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"sequence.rkt") (collects #"syntax" #"id-table.rkt") (collects #"syntax" #"parse.rkt") (indirect collects #"syntax" #"parse" #"private" #"parse-aux.rkt"))

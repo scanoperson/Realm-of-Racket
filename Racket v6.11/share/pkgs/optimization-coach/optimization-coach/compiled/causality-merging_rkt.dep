@@ -1,0 +1,1 @@
+("6.11" ("1fe4cfd1f753464679101375b15507753766cb5c" . "7cf243a393e527cd0391e815b5f5f2c5aebec333") (collects #"optimization-coach" #"structs.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"runtime-config.rkt"))

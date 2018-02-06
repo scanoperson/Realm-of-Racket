@@ -1,0 +1,1 @@
+("6.11" ("d1209bc28d60fadeb1e809aa4c8eabe03d7796d4" . "88b966abea46fc65a3827c9f8d63367fece734bb") (collects #"compiler" #"embed-sig.rkt") (collects #"compiler" #"embed.rkt") (collects #"compiler" #"sig.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"contract.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt"))

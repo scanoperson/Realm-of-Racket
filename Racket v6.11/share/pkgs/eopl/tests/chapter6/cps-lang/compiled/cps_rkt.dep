@@ -1,0 +1,1 @@
+("6.11" ("69a7cd6fc11465e917f669f92d5285dc0b2475a9" . "63123835758245cc8d47a568432d61da5efab144") (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt") (collects #"eopl" #"tests" #"chapter6" #"cps-lang" #"cps-in-lang.rkt") (collects #"eopl" #"tests" #"chapter6" #"cps-lang" #"cps-out-lang.rkt"))

@@ -1,0 +1,1 @@
+("6.11" ("6c50f46beae43bacd73b307a9d470aab27995077" . "a0c23d692216fbd9ba3883160d360e4efd2e987e") (collects #"graphics" #"private" #"value-turtles-reader.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"wxme" #"main.rkt"))

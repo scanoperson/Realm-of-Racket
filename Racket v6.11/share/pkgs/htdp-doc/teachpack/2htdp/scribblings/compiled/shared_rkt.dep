@@ -1,0 +1,1 @@
+("6.11" ("abc29936f4e1df161661feefb7871ac84f97bdac" . "4bca9e2c309cf30ea1da9011814678bd4c84939f") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"teachpack" #"htdp" #"scribblings" #"shared.rkt"))

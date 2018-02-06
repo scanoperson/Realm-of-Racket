@@ -1,0 +1,1 @@
+("6.11" ("34404ec0b0763ea21bcdae153e9cf76a01d6f014" . "defa99e8aafe8413701c86c239b64b32ab8a7094") (collects #"db" #"base.rkt") (collects #"db" #"private" #"odbc" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"contract" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

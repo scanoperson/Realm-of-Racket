@@ -1,0 +1,1 @@
+("6.11" ("dd2fb99c361d43fb528184acc440f24978e96670" . "d3a082e19c52a15707a485cdc1f915d828626af2") (collects #"file" #"gzip.rkt") (collects #"file" #"scribblings" #"common.rkt") (collects #"file" #"tar.rkt") (collects #"racket" #"file.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt"))

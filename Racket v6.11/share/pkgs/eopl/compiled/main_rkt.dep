@@ -1,0 +1,1 @@
+("6.11" ("49d8c2e9d7ce4732d81bda7907ccf16256504f06" . "107153022b23b7f04b29a5441ac753af53c77162") (collects #"eopl" #"eopl.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

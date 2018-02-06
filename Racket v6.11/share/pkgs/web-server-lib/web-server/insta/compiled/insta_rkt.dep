@@ -1,0 +1,1 @@
+("6.11" ("770b2d872a3bf284111c790bd9b4c734534d62e2" . "1835df43052873276e646698f1ef90aee44a3b6d") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"web-server" #"servlet-env.rkt") (collects #"web-server" #"servlet.rkt"))

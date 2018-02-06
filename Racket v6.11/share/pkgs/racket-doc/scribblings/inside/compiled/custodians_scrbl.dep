@@ -1,0 +1,1 @@
+("6.11" ("29c783b62d07cce7f622dbaf9aec64706cbfd938" . "fdd79e113af15f410b5ac311acc09c7d3ecb7917") (collects #"ffi" #"unsafe" #"custodian.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"inside" #"utils.rkt"))

@@ -1,0 +1,1 @@
+("6.11" ("3315be2bd110c4b0859e946dff1699a9e385244b" . "dc56df477a8bea99eba34ad6311a6eb4dae3b7e5") (collects #"games" #"parcheesi" #"board.rkt") (collects #"games" #"parcheesi" #"moves.rkt") (collects #"games" #"parcheesi" #"test" #"test.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"vector.rkt"))

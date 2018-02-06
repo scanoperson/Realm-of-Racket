@@ -1,0 +1,1 @@
+("6.11" ("8eaec103d4e484fda4db5fc22a5ca14709e13ebc" . "536a31e78fc4fa6f599173acc2c64490cdf394c0") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"web-server" #"http.rkt") (collects #"web-server" #"templates.rkt") (collects #"xml" #"main.rkt") (ext collects #"web-server" #"default-web-root" #"htdocs" #"servlets" #"examples" #"static.html"))

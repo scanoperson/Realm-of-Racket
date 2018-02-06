@@ -1,0 +1,1 @@
+("6.11" ("04f0a76941304b57c9b9099aa2b140d2ef766d06" . "0e8d957630a8020c04cc778f07f6aa8d142649ff") (collects #"net" #"url-connect.rkt") (collects #"net" #"url.rkt") (collects #"pkg" #"private" #"config.rkt") (collects #"pkg" #"private" #"print.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"format.rkt") (collects #"racket" #"runtime-config.rkt"))

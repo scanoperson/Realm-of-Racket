@@ -1,0 +1,1 @@
+("6.11" ("47369c205bcce3026538cc5b7d2012265e4cfb3e" . "46269009927bc981a10db6077b0993ae68f9014c") (collects #"mred" #"private" #"kernel.rkt") (collects #"mred" #"private" #"lock.rkt") (collects #"mzlib" #"class.rkt") (collects #"mzscheme" #"main.rkt") (collects #"racket" #"snip" #"private" #"style.rkt"))

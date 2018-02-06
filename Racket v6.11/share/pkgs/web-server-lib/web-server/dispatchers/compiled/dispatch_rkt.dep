@@ -1,0 +1,1 @@
+("6.11" ("7c4483bd0e74e3df1a5d2d38ea4bad7df7fa2e99" . "98af73a5f989338a47d0d3d5e0573cd115e2c09a") (collects #"racket" #"base.rkt") (collects #"racket" #"contract.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"web-server" #"http.rkt") (collects #"web-server" #"private" #"connection-manager.rkt"))

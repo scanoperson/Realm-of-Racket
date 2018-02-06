@@ -1,0 +1,1 @@
+("6.11" ("d4009eb8509bd944e35c5b4ce7f4b57980443d09" . "6ebb1db6112cdaf5998765c7dc9108f330a55ed6") (collects #"r6rs" #"private" #"readtable.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"s-exp" #"lang" #"reader.rkt") (collects #"syntax" #"module-reader.rkt"))

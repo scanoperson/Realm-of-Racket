@@ -1,0 +1,1 @@
+("6.11" ("6aaf6199f145c6cdae204fe339aff812ecc908e8" . "eb2a1c56fa7aee1e9275ecbbc6885c3251877ce1") (collects #"htdp" #"error.rkt") (collects #"lang" #"htdp-beginner.rkt") (collects #"plai" #"main.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"syntax" #"parse.rkt") (indirect collects #"syntax" #"parse" #"private" #"parse-aux.rkt"))

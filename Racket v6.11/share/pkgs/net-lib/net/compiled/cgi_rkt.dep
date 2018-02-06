@@ -1,0 +1,1 @@
+("6.11" ("72f8a7da8480ffb80ff192d35c349213a4b99fc4" . "e5c48ea89da587567dc2e4539aa9104bb0071f82") (collects #"net" #"uri-codec.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

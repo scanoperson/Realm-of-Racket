@@ -1,0 +1,1 @@
+("6.11" ("434d32b0c335ff3aa2ce18a805dae59a6d9042cc" . "5b2cd5e2e16b5f594e087479b34a9ce504aa04e3") (collects #"net" #"base64.rkt") (collects #"net" #"head.rkt") (collects #"net" #"mime-util.rkt") (collects #"net" #"qp.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"port.rkt") (collects #"racket" #"runtime-config.rkt"))

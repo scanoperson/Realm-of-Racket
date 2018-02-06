@@ -1,0 +1,1 @@
+("6.11" ("4f545728aa84d345d87aa5426deac9d61a64fae1" . "aa7df162d18fdcb3e3e66a2fb911576f72b1c529") (collects #"games" #"cards" #"card-class.rkt") (collects #"games" #"cards" #"classes.rkt") (collects #"games" #"cards" #"make-cards.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

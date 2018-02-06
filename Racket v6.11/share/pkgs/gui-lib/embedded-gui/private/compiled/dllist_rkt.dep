@@ -1,0 +1,1 @@
+("6.11" ("00ddff98f28b3b0f1219e9560e4602b032e597f6" . "7cb12a71c314924db81394356161bf4fd900f330") (collects #"embedded-gui" #"private" #"interface.rkt") (collects #"framework" #"main.rkt") (collects #"mzlib" #"class.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzscheme" #"main.rkt"))

@@ -1,0 +1,1 @@
+("6.11" ("c72022e743b4c31b6da1a16d47a6a0d094c79d8c" . "f63f4df365599ff28b73a0b3dfeffc7ca92ded87") (collects #"mzlib" #"class.rkt") (collects #"mzlib" #"for.rkt") (collects #"mzlib" #"kw.rkt") (collects #"mzscheme" #"main.rkt") (collects #"scribble" #"decode.rkt") (collects #"scribble" #"manual.rkt") (collects #"scribble" #"scheme.rkt") (collects #"scribble" #"struct.rkt"))

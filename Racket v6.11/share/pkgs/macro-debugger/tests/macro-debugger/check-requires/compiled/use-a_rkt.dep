@@ -1,0 +1,1 @@
+("6.11" ("ee9b55629868ac441253583c6452faf2ef322acc" . "41ec7372eb6d8c784d770afdd63635269443b697") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"tests" #"macro-debugger" #"check-requires" #"src-a.rkt") (collects #"tests" #"macro-debugger" #"check-requires" #"src-b.rkt") (collects #"tests" #"macro-debugger" #"check-requires" #"src-c.rkt"))

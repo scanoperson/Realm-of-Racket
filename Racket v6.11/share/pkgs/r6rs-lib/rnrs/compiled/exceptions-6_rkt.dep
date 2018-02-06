@@ -1,0 +1,1 @@
+("6.11" ("39f35516ee90e41dfe2ab1d04329c1d48080b637" . "fa71747943cf99250f7547c4693a387e19edeb92") (collects #"r6rs" #"private" #"conds.rkt") (collects #"r6rs" #"private" #"exns.rkt") (collects #"rnrs" #"io" #"ports-6.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

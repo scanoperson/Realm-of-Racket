@@ -1,0 +1,1 @@
+("6.11" ("513a1f6f5b78a3f5d2a7f3ca2a16a28f5007669c" . "b27056327c076a212711762be38fc53d2558c7ce") (collects #"mzscheme" #"main.rkt") (collects #"slideshow" #"run.rkt") (collects #"texpict" #"slideshow.rkt"))

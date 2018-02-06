@@ -1,0 +1,1 @@
+("6.11" ("81b49e157ee6a1b48aa6b2ad5a767b4f8fa4e029" . "bb92f91d8de59090e92ee47882a403b9d5a54206") (collects #"htdp" #"matrix.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("6.11" ("3d4d0ca708a26413993d1d8fb946871034f7798d" . "008d6f7d5f2e8a43457d6c0febdfd421c045d61f") (collects #"net" #"cookies" #"common.rkt") (collects #"net" #"cookies" #"server.rkt") (collects #"net" #"cookies" #"user-agent.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

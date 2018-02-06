@@ -1,0 +1,1 @@
+("6.11" ("1f7039a390998f76b3c8852f15926a50449283b7" . "46fd10ff1a3e5867098fac5c24a63aff5e83b7f4") (collects #"ffi" #"unsafe.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

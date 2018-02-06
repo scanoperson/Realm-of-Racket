@@ -1,0 +1,1 @@
+("6.11" ("f5bf9e71e1a4cb854b10d113738a13d9d820f611" . "eb11767ddd0efca64dbd01e9f7fb5cbb05f18cbf") (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt") (collects #"eopl" #"tests" #"private" #"utils.rkt"))

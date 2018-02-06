@@ -1,0 +1,1 @@
+("6.11" ("11c3a740b78d154f2d94c5c8a8eee324510f4159" . "97c50dbd73c9eed71be8836c7c3acb01c1a001c0") (collects #"graphics" #"turtles.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("6.11" ("9970368f37fbd6a53f26a54cf365d6c5f7f81010" . "b752edfa9295bc3a61576c3c52251b8c725719c4") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"texpict" #"balloon.rkt"))

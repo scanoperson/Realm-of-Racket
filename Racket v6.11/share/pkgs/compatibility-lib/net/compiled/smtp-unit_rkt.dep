@@ -1,0 +1,1 @@
+("6.11" ("829b06edb36de2f6aa2e538a4fc6a6ce51094457" . "42037838d5ae2d38cb9e63ec911c7a7e37332d0a") (collects #"net" #"smtp-sig.rkt") (collects #"net" #"smtp.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt"))

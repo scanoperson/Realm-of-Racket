@@ -1,0 +1,1 @@
+("6.11" ("96f11c0563f85dece00665a3ca3fc324b78a8cab" . "948fb57b135614cf76e3af475c632590713e979f") (collects #"net" #"nntp-sig.rkt") (collects #"net" #"nntp-unit.rkt") (collects #"net" #"nntp.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt"))

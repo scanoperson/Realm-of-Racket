@@ -1,0 +1,1 @@
+("6.11" ("14d04eba03421d23326eba785341ce85eb49102a" . "7c9f9902e3e5d5ce6ea8969d624d690aa1e5e168") (collects #"2htdp" #"universe.rkt") (collects #"mzscheme" #"main.rkt"))

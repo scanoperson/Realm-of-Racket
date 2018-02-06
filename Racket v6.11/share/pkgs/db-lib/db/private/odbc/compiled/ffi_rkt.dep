@@ -1,0 +1,1 @@
+("6.11" ("fbbf8a41f88e8eca758e239740d916b87ada1732" . "c23a88b9c2d2548f8e58f69b294e2f240af211c8") (collects #"db" #"private" #"odbc" #"ffi-constants.rkt") (collects #"ffi" #"unsafe" #"define.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (indirect collects #"syntax" #"parse" #"private" #"parse-aux.rkt"))
